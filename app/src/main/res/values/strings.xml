@@ -1,5 +1,37 @@
 <resources>
     <string name="app_name">Android-Pv-221</string>
-    <string name="a1">Знайомство з андроід</string>>
-    <string name="main_btn_calc">Калькулятор</string>>
+    <string name="a1">Знайомство з андроід</string>
+    <string name="main_btn_calc">Калькулятор</string>
+    <string name="page2"> Друге вікно </string>
+
+
+
+    <!-- region Calc -->
+    <string name="calc_tv_title">Калькулятор</string>
+    <string name="calc_btn_percent">%</string>
+    <string name="calc_btn_ce">CE</string>
+    <string name="calc_btn_c">C</string>
+    <string name="calc_btn_backspace">\u232B</string>
+    <string name="calc_btn_inverse">\u215Fx</string>
+    <string name="calc_btn_square">x\u00B2</string>
+    <string name="calc_btn_sqrt">\u221Ax</string>
+    <string name="calc_btn_divide">\u00F7</string>
+    <string name="calc_btn_plus">+</string>
+    <string name="calc_btn_minus">\u2212</string>
+    <string name="calc_btn_mn">	\u00D7</string>
+    <string name="calc_btn_plusminus">\u00B1</string>
+    <string name="calc_btn_krap">.</string>
+    <string name="calc_btn_dor">=</string>
+
+    <string name="calc_btn_digit_0">0</string>
+    <string name="calc_btn_digit_1">1</string>
+    <string name="calc_btn_digit_2">2</string>
+    <string name="calc_btn_digit_3">3</string>
+    <string name="calc_btn_digit_4">4</string>
+    <string name="calc_btn_digit_5">5</string>
+    <string name="calc_btn_digit_6">6</string>
+    <string name="calc_btn_digit_7">7</string>
+    <string name="calc_btn_digit_8">8</string>
+    <string name="calc_btn_digit_9">9</string>
+    <!--end region -->
 </resources>
